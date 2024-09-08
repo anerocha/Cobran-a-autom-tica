@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido com base em uma videoaula do canal **Hashtag** e tem como objetivo automatizar o processo de envio de e-mails para clientes com pagamentos atrasados. O script utiliza Python para ler dados de um arquivo Excel, identificar clientes que estão com pagamentos pendentes e enviar notificações via Outlook.
 
 
-![Captura de Tela](images/travel.PNG)
+![Captura de Tela](image/code.png)
 
 
 ## Descrição do Projeto
